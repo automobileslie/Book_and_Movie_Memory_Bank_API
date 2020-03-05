@@ -18,6 +18,9 @@ Movie.create(title: "The Double Life of Veronique", url: "https://metrograph.com
 Movie.create(title: "Faces Places", url: "https://media.newyorker.com/photos/59dcf8a34089f76364a9daa1/master/w_727,c_limit/Brody-Faces-Places-Feature.jpg", director: "Agnes Varda")
 Movie.create(title: "Losing Ground", url: "https://jojud265nia2bj9sy4ah9b61-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/LosingGround1_640x391-640x360-c-default.jpg", director: "Kathleen Collins")
 Movie.create(title: "Small Change", url: "https://mk2films.com/wp-content/uploads/sites/4/2016/07/largent-de-poche-copyright-helene-jeanbreau-4.jpg", director: "Francois Truffaut")
+Movie.create(title: "Lorna's Silence", url: "https://static.rogerebert.com/uploads/movie/movie_poster/lornas-silence-2009/large_ngik7hdcFuA69aO3wShxCrRur5q.jpg", director: "Jean-Pierre Dardenne and Luc Dardenne")
+Movie.create(title: "One Sings, the Other Doesn't", url: "https://static01.nyt.com/images/2018/06/01/arts/01rewind/merlin_138811995_1399e2a4-ffa8-45da-a913-45a3f7e2f7eb-articleLarge.jpg?quality=75&auto=webp&disable=upscale", director: "Agnes Varda")
+Movie.create(title: "Inside Out", url: "https://lumiere-a.akamaihd.net/v1/images/rich_insideout_header_mobile_ce11b9a6.jpeg?region=0,0,640,952", director: "Pete Docter")
 
 Book.create(title: "The Year of Magical Thinking", url: "http://www.randomhouse.com/images/dyn/cover/?source=9781400043149&width=250&alternate=images%2Fdyn%2Fcover%2Fno_cover_kdd.gif", author: "Joan Didion")
 Book.create(title: "Just Kids", url: "https://i.harperapps.com/covers/9780066211312/x300.jpg", author: "Patti Smith")
@@ -26,3 +29,5 @@ Book.create(title: "On Humour", url: "https://images.tandf.co.uk/common/jackets/
 Book.create(title: "Alice's Adventures in Wonderland and Through The Looking-Glass", url: "https://images3.penguinrandomhouse.com/cover/9780141192468", author: "Lewis Carroll")
 Book.create(title: "Adaptive Preferences and Women's Empowerment", url: "https://global.oup.com/academic/covers/pop-up/9780199777877", author: "Serene Khader")
 Book.create(title: "Pooh's Honey Adventure", url: "https://i1.wp.com/books.disney.com/content/uploads/2013/09/Poohs-Honey-Adventure.jpg?resize=327%2C490&ssl=1", author: "Lisa Ann Marsoli")
+Book.create(title: "Becoming", url: "https://becomingmichelleobama.com/assets/img/MO_bookshot_v3.jpg", author: "Michelle Obama")
+Book.create(title: "M Train", url: "https://images2.penguinrandomhouse.com/cover/9781101910160", author: "Patti Smith")
