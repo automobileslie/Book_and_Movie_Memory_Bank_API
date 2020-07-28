@@ -11,4 +11,5 @@ This application was inspired by some of my experiences planning courses when I 
 ● Programmed front-end functionality including controlled forms and a search bar using JavaScript and React
 
 The front-end for the project can be found here: https://github.com/automobileslie/Book_and_Movie_Memory_Bank
+
 A demo of the application is available here: https://www.carlieanglemire.com/static/media/BookandMovieMemoryBankVideo.b92ebcac.mp4
